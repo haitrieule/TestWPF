@@ -1,0 +1,29 @@
+﻿<Window x:Class="WpfApp1.AddEditProductWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="AddEditProductWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox Name="skuTextbox" HorizontalAlignment="Left" Height="23" Margin="186,162,0,0" TextWrapping="Wrap" Text="{Binding SKU}" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="nameTextbox" HorizontalAlignment="Left" Height="23" Margin="186,212,0,0" TextWrapping="Wrap" Text="{Binding Name}" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="priceTextbox" HorizontalAlignment="Left" Height="23" Margin="186,259,0,0" TextWrapping="Wrap" Text="{Binding Price}" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="quantityTextbox" HorizontalAlignment="Left" Height="23" Margin="186,313,0,0" TextWrapping="Wrap" Text="{Binding Quantity}" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="DescriptionTextbox" HorizontalAlignment="Left" Height="23" Margin="186,361,0,0" TextWrapping="Wrap" Text="{Binding Description}" VerticalAlignment="Top" Width="120"/>
+        <TextBlock HorizontalAlignment="Left" Margin="41,162,0,0" TextWrapping="Wrap" Text="SKU" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="41,212,0,0" TextWrapping="Wrap" Text="Name" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="41,259,0,0" TextWrapping="Wrap" Text="Price" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="41,314,0,0" TextWrapping="Wrap" Text="Quantity" VerticalAlignment="Top" Width="57"/>
+        <TextBlock HorizontalAlignment="Left" Margin="41,362,0,0" TextWrapping="Wrap" Text="Descripton" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="331,43,0,0" TextWrapping="Wrap" Text="Add Product" VerticalAlignment="Top" Width="189" Height="26"/>
+        <Button Content="Summit" HorizontalAlignment="Left" Margin="417,244,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="45,120,0,0" TextWrapping="Wrap" Text="Id" VerticalAlignment="Top" RenderTransformOrigin="0.37,-1.675"/>
+        <TextBox Name="idTextbox" HorizontalAlignment="Left" Height="23" Margin="186,106,0,0" TextWrapping="Wrap" Text="{Binding CatId}" VerticalAlignment="Top" Width="120"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Name Image
+                   " VerticalAlignment="Top" Margin="417,113,0,0"/>
+        <TextBox Name="imageTextbox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="{Binding Image}" VerticalAlignment="Top" Width="120" Margin="569,112,0,0"/>
+
+    </Grid>
+</Window>

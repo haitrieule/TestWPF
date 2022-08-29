@@ -1,0 +1,339 @@
+C:\Users\dev\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\dev\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\dev\source\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\dev\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\dev\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\dev\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\dev\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\dev\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\dev\source\repos\WpfApp1\WpfApp1\bin\Debug\ControlzEx.dll
+C:\Users\dev\source\repos\WpfApp1\WpfApp1\bin\Debug\Fluent.dll
+C:\Users\dev\source\repos\WpfApp1\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\dev\source\repos\WpfApp1\WpfApp1\bin\Debug\ControlzEx.pdb
+C:\Users\dev\source\repos\WpfApp1\WpfApp1\bin\Debug\ControlzEx.xml
+C:\Users\dev\source\repos\WpfApp1\WpfApp1\bin\Debug\Fluent.pdb
+C:\Users\dev\source\repos\WpfApp1\WpfApp1\bin\Debug\Fluent.xml
+C:\Users\dev\source\repos\WpfApp1\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\dev\source\repos\WpfApp1\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\dev\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\dev\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\dev\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\dev\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\dev\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\dev\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\dev\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\dev\source\repos\WpfApp1\WpfApp1\obj\Debug\App.baml
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\WpfApp1.exe
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\Aspose.Cells.dll
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\ControlzEx.dll
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\Fluent.dll
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\EntityFramework.dll
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\System.Security.AccessControl.dll
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\System.Security.Permissions.dll
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\System.Security.Principal.Windows.dll
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\Aspose.Cells.xml
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\ControlzEx.pdb
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\ControlzEx.xml
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\EntityFramework.xml
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\Fluent.pdb
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\Fluent.xml
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\System.Security.AccessControl.xml
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\System.Security.Permissions.xml
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\System.Security.Principal.Windows.xml
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\AddEditProductWindow.g.cs
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\AddPurchaseWindow.g.cs
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\EditCategoryWindow.g.cs
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\LoginWindow.g.cs
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\SettingsWindow.g.cs
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\ShowPurchaseWindow.g.cs
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\App.g.cs
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\App.baml
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\AddEditProductWindow.baml
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\AddPurchaseWindow.baml
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\EditCategoryWindow.baml
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\LoginWindow.baml
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\MainWindow.baml
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\SettingsWindow.baml
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\ShowPurchaseWindow.baml
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\WpfApp1.exe
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\doanhthu.g.cs
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\LiveCharts.dll
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\LiveCharts.Wpf.dll
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\LiveCharts.pdb
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\LiveCharts.xml
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\LiveCharts.Wpf.pdb
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\LiveCharts.Wpf.xml
+D:\bai tap lap trinh ung dung quan ly\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\doanhthu.baml
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\Aspose.Cells.dll
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\ControlzEx.dll
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\Fluent.dll
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\LiveCharts.dll
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\System.Security.Permissions.dll
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\Aspose.Cells.xml
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\ControlzEx.pdb
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\ControlzEx.xml
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\Fluent.pdb
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\Fluent.xml
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\LiveCharts.pdb
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\LiveCharts.xml
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\System.Security.Permissions.xml
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\AddEditProductWindow.g.cs
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\AddPurchaseWindow.g.cs
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\doanhthu.g.cs
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\EditCategoryWindow.g.cs
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\LoginWindow.g.cs
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\SettingsWindow.g.cs
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\ShowPurchaseWindow.g.cs
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\App.g.cs
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\App.baml
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\AddEditProductWindow.baml
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\AddPurchaseWindow.baml
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\doanhthu.baml
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\EditCategoryWindow.baml
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\LoginWindow.baml
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\SettingsWindow.baml
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\ShowPurchaseWindow.baml
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\ACER\Desktop\MyShop -1760449 - Milestone2\POS.Demo.2020.10.27.Dashboard.MasterData\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\bin\Debug\WpfApp1.exe
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\bin\Debug\Aspose.Cells.dll
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\bin\Debug\ControlzEx.dll
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\bin\Debug\EntityFramework.dll
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\bin\Debug\Fluent.dll
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\bin\Debug\LiveCharts.dll
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\bin\Debug\LiveCharts.Wpf.dll
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\bin\Debug\System.Security.AccessControl.dll
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\bin\Debug\System.Security.Permissions.dll
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\bin\Debug\System.Security.Principal.Windows.dll
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\bin\Debug\Aspose.Cells.xml
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\bin\Debug\ControlzEx.pdb
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\bin\Debug\ControlzEx.xml
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\bin\Debug\EntityFramework.xml
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\bin\Debug\Fluent.pdb
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\bin\Debug\Fluent.xml
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\bin\Debug\LiveCharts.pdb
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\bin\Debug\LiveCharts.xml
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\bin\Debug\LiveCharts.Wpf.pdb
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\bin\Debug\LiveCharts.Wpf.xml
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\bin\Debug\System.Security.AccessControl.xml
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\bin\Debug\System.Security.Permissions.xml
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\bin\Debug\System.Security.Principal.Windows.xml
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\obj\Debug\AddEditProductWindow.g.cs
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\obj\Debug\AddPurchaseWindow.g.cs
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\obj\Debug\doanhthu.g.cs
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\obj\Debug\EditCategoryWindow.g.cs
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\obj\Debug\LoginWindow.g.cs
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\obj\Debug\SettingsWindow.g.cs
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\obj\Debug\ShowPurchaseWindow.g.cs
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\obj\Debug\App.g.cs
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\obj\Debug\App.baml
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\obj\Debug\AddEditProductWindow.baml
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\obj\Debug\AddPurchaseWindow.baml
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\obj\Debug\doanhthu.baml
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\obj\Debug\EditCategoryWindow.baml
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\obj\Debug\LoginWindow.baml
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\obj\Debug\MainWindow.baml
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\obj\Debug\SettingsWindow.baml
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\obj\Debug\ShowPurchaseWindow.baml
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\obj\Debug\WpfApp1.exe
+D:\laptopShop\laptopshop-master\laptopshop-master\Source\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\bin\Debug\Aspose.Cells.dll
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\bin\Debug\ControlzEx.dll
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\bin\Debug\Fluent.dll
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\bin\Debug\LiveCharts.dll
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\bin\Debug\System.Security.Permissions.dll
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\bin\Debug\Aspose.Cells.xml
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\bin\Debug\ControlzEx.pdb
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\bin\Debug\ControlzEx.xml
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\bin\Debug\Fluent.pdb
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\bin\Debug\Fluent.xml
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\bin\Debug\LiveCharts.pdb
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\bin\Debug\LiveCharts.xml
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\bin\Debug\System.Security.Permissions.xml
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\obj\Debug\AddEditProductWindow.g.cs
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\obj\Debug\AddPurchaseWindow.g.cs
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\obj\Debug\doanhthu.g.cs
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\obj\Debug\EditCategoryWindow.g.cs
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\obj\Debug\LoginWindow.g.cs
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\obj\Debug\SettingsWindow.g.cs
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\obj\Debug\ShowPurchaseWindow.g.cs
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\obj\Debug\App.baml
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\obj\Debug\AddEditProductWindow.baml
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\obj\Debug\AddPurchaseWindow.baml
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\obj\Debug\doanhthu.baml
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\obj\Debug\EditCategoryWindow.baml
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\obj\Debug\LoginWindow.baml
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\obj\Debug\SettingsWindow.baml
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\obj\Debug\ShowPurchaseWindow.baml
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Hai Trieu\Source\Repos\TestProject\Source\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\bin\Debug\Aspose.Cells.dll
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\bin\Debug\ControlzEx.dll
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\bin\Debug\Fluent.dll
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\bin\Debug\LiveCharts.dll
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\bin\Debug\System.Security.Permissions.dll
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\bin\Debug\Aspose.Cells.xml
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\bin\Debug\ControlzEx.pdb
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\bin\Debug\ControlzEx.xml
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\bin\Debug\Fluent.pdb
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\bin\Debug\Fluent.xml
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\bin\Debug\LiveCharts.pdb
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\bin\Debug\LiveCharts.xml
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\bin\Debug\System.Security.Permissions.xml
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\obj\Debug\AddEditProductWindow.g.cs
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\obj\Debug\AddPurchaseWindow.g.cs
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\obj\Debug\doanhthu.g.cs
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\obj\Debug\EditCategoryWindow.g.cs
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\obj\Debug\LoginWindow.g.cs
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\obj\Debug\SettingsWindow.g.cs
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\obj\Debug\ShowPurchaseWindow.g.cs
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\obj\Debug\App.baml
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\obj\Debug\AddEditProductWindow.baml
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\obj\Debug\AddPurchaseWindow.baml
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\obj\Debug\doanhthu.baml
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\obj\Debug\EditCategoryWindow.baml
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\obj\Debug\LoginWindow.baml
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\obj\Debug\SettingsWindow.baml
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\obj\Debug\ShowPurchaseWindow.baml
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\obj\Debug\WpfApp1.pdb
