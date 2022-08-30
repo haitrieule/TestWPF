@@ -64,7 +64,10 @@ namespace WpfApp1
                 }
                 db.Purchases.Add(purchase);
                 db.SaveChanges();
+
                 DialogResult = true;
+
+                MessageBox.Show("thêm dữ liệu thành công");
             }
             catch (Exception ex)
             {

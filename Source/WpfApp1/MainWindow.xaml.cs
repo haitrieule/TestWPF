@@ -100,24 +100,26 @@ namespace WpfApp1
         /// </summary>
         void loadAllPurchases()
         {
-             int status = (purchaseStatesComboBox.SelectedItem as PurchaseStatusEnum).Value;
-            MyStoreEntities4 db = new MyStoreEntities4();
+            int status = (purchaseStatesComboBox.SelectedItem as PurchaseStatusEnum).Value;
+            var db = new MyStoreEntities4();
             IQueryable<Purchase> dateFilter;
+
             if (fromDatePicker.SelectedDate != null && toDatePicker.SelectedDate != null)
             {
                 var from = (DateTime)fromDatePicker.SelectedDate;
                 var to = (DateTime)toDatePicker.SelectedDate;
                 dateFilter = db.Purchases.Where(p => (from <= p.Created_At) && (p.Created_At <= to));
             }
-            else {
+            else
+            {
                 dateFilter = db.Purchases;
             }
             
             var query = dateFilter.GroupJoin(db.Customers,
-               p => p.Customer_Tel,
-               c => c.Tel,
-               (x, y) => new { Purchases = x, Customers = y }
-               )
+                p => p.Customer_Tel,
+                c => c.Tel,
+                (x, y) => new { Purchases = x, Customers = y }
+                )
                .SelectMany(
                     x => x.Customers.DefaultIfEmpty(),
                     (x, y) => new { Purchase = x.Purchases, Customer = y }
@@ -382,7 +384,6 @@ namespace WpfApp1
 
                 categoriesComboBox.ItemsSource = categories;
                 categoriesComboBox.SelectedIndex = 0;
-
             }
         }
 
@@ -618,8 +619,6 @@ namespace WpfApp1
             {
                 loadAllPurchases();
             }
-
-            MessageBox.Show("thêm dữ liệu thành công");
         }
 
         /// <summary>
@@ -748,9 +747,9 @@ namespace WpfApp1
         private void ConHang_Click(object sender, RoutedEventArgs e)
         {
             var db = new MyStoreEntities4();
-            var query = from a in db.Products join b in db.PurchaseDetails on a.Id equals b.Product_ID where a.Quantity > b.Quantity select new {name = a.Name, SLCL = a.Quantity-b.Quantity };
-
-            purchaseDataGrid1.ItemsSource = query.ToList();
+            //var query = from a in db.Products join b in db.PurchaseDetails on a.Id equals b.Product_ID where a.Quantity > b.Quantity select new {name = a.Name, SLCL = a.Quantity-b.Quantity };
+            var query1 = from a in db.Products where a.Quantity > 0 select new { name = a.Name, SLCL = a.Quantity };
+            purchaseDataGrid1.ItemsSource = query1.ToList();
         }
 
         /// <summary>
@@ -761,9 +760,10 @@ namespace WpfApp1
         private void SapHetHang_Click(object sender, RoutedEventArgs e)
         {
             var db = new MyStoreEntities4();
-            var query = from a in db.Products join b in db.PurchaseDetails on a.Id equals b.Product_ID where a.Quantity - b.Quantity<5 && a.Quantity - b.Quantity > 0 select new { name = a.Name, SLCL = a.Quantity - b.Quantity };
+            //var query = from a in db.Products join b in db.PurchaseDetails on a.Id equals b.Product_ID where a.Quantity - b.Quantity<5 && a.Quantity - b.Quantity > 0 select new { name = a.Name, SLCL = a.Quantity - b.Quantity };
+            var query1 = from a in db.Products where a.Quantity < 5 select new { name = a.Name, SLCL = a.Quantity };
 
-            purchaseDataGrid1.ItemsSource = query.ToList();
+            purchaseDataGrid1.ItemsSource = query1.ToList();
 
         }
 

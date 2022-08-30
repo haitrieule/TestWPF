@@ -29,20 +29,20 @@ namespace WpfApp1
         {
             try
             {
-                MyStoreEntities4 db = new MyStoreEntities4();
-                List<int?> values = new List<int?>();
-                var query = from a in db.Purchases select new { a.Total };
-                var b = query.SingleOrDefault().Total;
-                values.Add(b);
+                var db = new MyStoreEntities4();
+                var values = new ChartValues<int?>();
+                var query = from a in db.Purchases select a.Total;
+                var c = query.Sum();
+                //var b = query.SingleOrDefault().Total;
+                
+                values.Add(c);
                 var series = new SeriesCollection()
-            {
-                new LineSeries()
                 {
-                    Values = new ChartValues<int?> (values)
-
-
-                }
-            };
+                    new LineSeries()
+                    {
+                        Values = new ChartValues<int?> (values)
+                    }
+                };
                 reportChart.Series = series;
             }
             catch (Exception ex)

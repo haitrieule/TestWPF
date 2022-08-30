@@ -11,7 +11,7 @@
         <PasswordBox Background="Transparent" Canvas.Left="180" Canvas.Top="110" HorizontalContentAlignment="Center" HorizontalAlignment="Left" VerticalContentAlignment="Center" Name="passwordBox" Height="36" Width="220"  TabIndex="5" />
         <Button x:Name="loginButton" Width="80" Height="35" Canvas.Left="52" Canvas.Top="164" Content="Login" Click="loginButton_Click"/>
         <CheckBox x:Name="rememberCheckBox" Content="Remember me" Canvas.Left="43" Canvas.Top="214"/>
-        <Button x:Name="settingsButton" Width="80" Height="35" Content="Settings" Canvas.Left="683" Canvas.Top="375" Click="settingsButton_Click"/>
+        <Button x:Name="settingsButton" Width="80" Height="35" Content="Settings" Canvas.Left="683" Canvas.Top="375" Click="settingsButton_Click" Visibility="Hidden"/>
         <Label Content="Login User" Canvas.Left="343" Canvas.Top="10"/>
         <Label Canvas.Left="43" Canvas.Top="60" Content="Username:"/>
         <Label Canvas.Left="43" Canvas.Top="115" Content="Password:" HorizontalAlignment="Center" VerticalAlignment="Top"/>
