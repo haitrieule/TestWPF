@@ -337,3 +337,8 @@ C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\obj\Debug\WpfApp1.csproj.
 C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\obj\Debug\WpfApp1.exe
 C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\obj\Debug\WpfApp1.pdb
 C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\bin\Debug\MaterialDesignColors.dll
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Hai Trieu\source\repos\TestWPF\Source\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.xml

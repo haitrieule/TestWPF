@@ -195,7 +195,7 @@ namespace WpfApp1
                         Name = tab.Name
                     };
                     db.Categories.Add(category);
-                    db.SaveChanges();
+                    //db.SaveChanges();
 
                     var row = 3;
                     var cell = tab.Cells[$"C3"];
@@ -213,31 +213,31 @@ namespace WpfApp1
                         };
 
                         category.Products.Add(product);
-                        db.SaveChanges();
+                        //db.SaveChanges();
 
-                        var imageName = tab.Cells[$"H{row}"].StringValue;
-                        var imageFull = $"{fileinfo.Directory}\\images\\{imageName}";
-                        var image = new BitmapImage(new Uri(imageFull, UriKind.Absolute));
-                        var encoder = new JpegBitmapEncoder();
-                        encoder.Frames.Add(BitmapFrame.Create(image));
+                        //var imageName = tab.Cells[$"H{row}"].StringValue;
+                        //var imageFull = $"{fileinfo.Directory}\\images\\{imageName}";
+                        //var image = new BitmapImage(new Uri(imageFull, UriKind.Absolute));
+                        //var encoder = new JpegBitmapEncoder();
+                        //encoder.Frames.Add(BitmapFrame.Create(image));
 
-                        using (var stream = new MemoryStream())
-                        {
-                            encoder.Save(stream);
-                            var photo = new Photo()
-                            {
-                                Product_id = product.Id,
-                                Data = stream.ToArray()
-                            };
-                            db.Photos.Add(photo);
+                        //using (var stream = new MemoryStream())
+                        //{
+                        //    encoder.Save(stream);
+                        //    var photo = new Photo()
+                        //    {
+                        //        Product_id = product.Id,
+                        //        Data = stream.ToArray()
+                        //    };
+                        //    db.Photos.Add(photo);
 
-                            db.SaveChanges();
-                        }
+                        //    db.SaveChanges();
+                        //}
 
                         row++;
                         cell = tab.Cells[$"C{row}"];
                     }
-
+                    db.SaveChanges();
                     MessageBox.Show("Data imported");
                 }
             }

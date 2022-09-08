@@ -34,8 +34,8 @@ namespace WpfApp1
         /// <param name="e"></param>
         private void loginButton_Click(object sender, RoutedEventArgs e)
         {
-            var server = ConfigurationManager.AppSettings["server"];
-            var database = ConfigurationManager.AppSettings["database"];
+            //var server = ConfigurationManager.AppSettings["server"];
+            //var database = ConfigurationManager.AppSettings["database"];
             var username = usernameTextBox.Text;
             var password = passwordBox.Password;
 
